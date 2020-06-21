@@ -1,4 +1,4 @@
-# AssetStudio
+# AssetExporter
 
 **None of the repo, the tool, nor the repo owner is affiliated with, or sponsored or authorized by, Unity Technologies or its affiliates.**
 
