@@ -12,7 +12,7 @@ Command line tool for exporting textassets from unity asset bundle based on Perf
 
 ### How to use
 
-`AssetExporter ""AssetBundlePath"" ""assetname1;assetname2;..."" [""OutputDir""]`
+`AssetExporter "AssetBundlePath" "assetname1;assetname2;..." ["OutputDir"]`
   
 ## Build
 
